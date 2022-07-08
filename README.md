@@ -1,2 +1,8 @@
-# Pedra_Papel_Tesoura
-Game
+# Pedra, papel ou tesoura!
+## Sobre:
+ - Game codado em Python.
+ - PC X Usuário.
+### Utilizei:
+ - Pycharm.
+ - VS Code.
+ - Terminal.
