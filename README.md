@@ -5,4 +5,5 @@
 ### Utilizei:
  - Pycharm.
  - VS Code.
+ - Módulo: Random
  - Terminal.
